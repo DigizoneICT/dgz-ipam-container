@@ -2,7 +2,7 @@
 
 # STAGE 1
 
-FROM phpipam/phpipam-www:latest
+FROM phpipam/phpipam-www:1.52
 
 WORKDIR /
 
